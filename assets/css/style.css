@@ -26,7 +26,7 @@ header {
     background-attachment: fixed;
     background-position: 80%;
     padding: 20px 35px;
-    background-color: var(--teritary-color);
+    background-color: var(--tertiary-color);
     display: flex;
     justify-content: space-between;
     flex-wrap: wrap;
@@ -216,7 +216,7 @@ section {
     height: 20px;
     border-radius: 50%;
     background: var(--secondary-color);
-    background-image: radial-gradient(circle, var(--teritary-color), var(--secondary-color));
+    background-image: radial-gradient(circle, var(--tertiary-color), var(--secondary-color));
     position: absolute;
     left: -29px;
     top: -3px;
@@ -252,7 +252,7 @@ section {
 }
 
 .hero-form button:hover {
-    background-color: var(--teritary-color);
+    background-color: var(--tertiary-color);
 }
 
 /****************
@@ -274,7 +274,7 @@ section {
 }
 
 .secondary-border {
-    border-color: var(--teritary-color);
+    border-color: var(--tertiary-color);
 }
 
 /*************
@@ -283,7 +283,7 @@ section {
 
 .intro p {
     line-height: 1.7;
-    color: var(--teritary-color);
+    color: var(--tertiary-color);
     width: 80%;
     font-size: 20px;
     margin: 0 auto;
@@ -309,7 +309,7 @@ section {
 }
 
 .step:not(:last-child) {
-    border-bottom: 1px solid var(--teritary-color);
+    border-bottom: 1px solid var(--tertiary-color);
 }
 
 .step h3 {
@@ -339,7 +339,7 @@ section {
 }
 
 .step-text p {
-    color: var(--teritary-color);
+    color: var(--tertiary-color);
     font-size: 18px;
 }
 .step-text h4 {
@@ -467,7 +467,7 @@ section {
 
 .contact-form button:hover {
     color: var(--primary-color);
-    background: var(--teritary-color);
+    background: var(--tertiary-color);
 }
 
 /************
